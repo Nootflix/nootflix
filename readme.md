@@ -1,21 +1,21 @@
-# nootflix
-nootflix is aimed to be a user-friendly IPTV software similar to <a href="https://github.com/xbmc/xbmc">Kodi</a>
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) <br>
+[![forthebadge](https://forthebadge.com/images/badges/powered-by-electricity.svg)](https://forthebadge.com) <br>
+[![forthebadge](https://forthebadge.com/images/badges/uses-css.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/uses-html.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/uses-js.svg)](https://forthebadge.com)
+# nootflix [![Build Status](https://travis-ci.org/sineflex/nootflix.svg?branch=master)](https://travis-ci.org/sineflex/nootflix) [![Build status](https://ci.appveyor.com/api/projects/status/w41glb9jsxbaib0v?svg=true)](https://ci.appveyor.com/project/ThePStar7/nootflix)
+nootflix is aimed to be a user-friendly Home-Theater software similar to <a href="https://github.com/xbmc/xbmc">Kodi</a>
 utilising <a href="https://nodejs.org/en/">Node.js</a> and <a href="https://electronjs.org">Electron</a> to build the UI.
 
 ## What's working
-- One Stream plays, but thats about it
-
+- You can search for, and watch movies, but an ad plays before every video hosted on openload
+- IMDb id search 
 ## What is still todo:
-- a method to switch channels
-- nice UI
-- idk if vod integration
-
+- UI
+- AdBlocker
+- More user-friendly search method
 ## What's planned
--Different IPTV-Channels
-
-## nootflix-sites
-- [x] Some Live-IPTV lists <br>
-
+- Netflix like UI
 
 ## Usage
 1. Download .zip of this Repo
